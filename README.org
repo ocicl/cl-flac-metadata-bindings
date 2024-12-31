@@ -4,6 +4,6 @@ With this Common lisp library, you can read the metadata of FLAC files.
 
 |---------+--------------------------------------------------------------------|
 | source  | git:https://forge.tedomum.net/koizel/cl-flac-metadata-bindings.git |
-| commit  | 3ab43c7                                                            |
+| commit  | bac34e6                                                            |
 | systems | flac-metadata-bindings                                             |
 |---------+--------------------------------------------------------------------|
